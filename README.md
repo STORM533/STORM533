@@ -6,7 +6,7 @@ I’m a BTech ECE student currently exploring  **Embedded Systems, Web Developme
 - **Programming Languages:** C, C++, Java
 - **Web Development:** HTML, CSS, JavaScript
 - **Embedded Systems:** Microcontrollers (Arduino, STM32), Circuit Simulation
-- **Tools & Platforms:** Linux, Git, VS Code, MATLAB , multisim , MATLAB
+- **Tools & Platforms:** Linux, Git, VS Code, MATLAB , multisim 
 - **Concepts:** Digital Communication, Networking Fundamentals, DSA
   
 ## 📂 Projects
