@@ -10,7 +10,7 @@ I’m a BTech ECE student currently exploring  **Embedded Systems, Web Developme
 - **Concepts:** Digital Communication, Networking Fundamentals, DSA
   
 ## 📂 Projects
-I work on small projects to apply my skills as i go developing them:
+I work on projects to apply my skills as i go developing them:
 - **DSA Practice:** Problem-solving and algorithm implementation in Java & C++
 - **WebDev Portfolio:** Responsive websites built with HTML, CSS, JS
 - **Embedded Systems Experiments:** Microcontroller projects from college labs
@@ -18,6 +18,7 @@ I work on small projects to apply my skills as i go developing them:
 ## 📫 Connect with me
 - GitHub: [STORM533](https://github.com/STORM533)
 - Email: sakshamkr2006@gmail.com
+- Linkedin: [Saksham Kumar](www.linkedin.com/in/saksham-kumar-40a364381)
 
 ---
 <!---
