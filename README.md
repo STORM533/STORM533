@@ -18,7 +18,7 @@ I work on projects to apply my skills as i go developing them:
 ## 📫 Connect with me
 - GitHub: [STORM533](https://github.com/STORM533)
 - Email: sakshamkr2006@gmail.com
-- Linkedin: [Saksham Kumar](www.linkedin.com/in/saksham-kumar-40a364381)
+- Linkedin: [Saksham Kumar](https://www.linkedin.com/in/saksham-kumar-40a364381)
 
 ---
 <!---
