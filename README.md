@@ -1,27 +1,34 @@
-# Hello there, I'm Saksham 
+# 💫 About Me:
+🔭 Working on **Web Development** with a growing focus on **DevOps fundamentals**  
+👯 Interested in collaborating on **web development projects**  
+🌱 Currently learning **Data Structures & Algorithms, System Design, and Linux**  
+💬 Open to mentorship and feedback on **scalable systems and DevOps practices**  
 
-I’m a BTech ECE student currently exploring  **Embedded Systems, Web Development, and Data Structures & Algorithms**. I like building  practical projects, solving coding challenges, and learning new technologies.
+## 🌐 Socials:
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshamkr2006@gmail.com)
 
-## 💻 Skills
-- **Programming Languages:** C, C++, Java
-- **Web Development:** HTML, CSS, JavaScript
-- **Embedded Systems:** Microcontrollers (Arduino, STM32), Circuit Simulation
-- **Tools & Platforms:** Linux, Git, VS Code, MATLAB , multisim 
-- **Concepts:** Digital Communication, Networking Fundamentals, DSA
-  
-## 📂 Projects
-I work on projects to apply my skills as i go developing them:
-- **DSA Practice:** Problem-solving and algorithm implementation in Java & C++
-- **WebDev Portfolio:** Responsive websites built with HTML, CSS, JS
-- **Embedded Systems Experiments:** Microcontroller projects from college labs
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📫 Connect with me
-- GitHub: [STORM533](https://github.com/STORM533)
-- Email: sakshamkr2006@gmail.com
-- Linkedin: [Saksham Kumar](https://www.linkedin.com/in/saksham-kumar-40a364381)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=STORM533&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=STORM533&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=STORM533&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=STORM533&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=STORM533&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<!---
-STORM533/STORM533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://visitcount.itsvg.in/api?id=STORM533&icon=1&color=0)](https://visitcount.itsvg.in)
